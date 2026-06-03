@@ -43,7 +43,7 @@ a {
   border-bottom: 1px solid var(--color-linea);
 }
 
-.nav-inner {
+.menu{
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px;
